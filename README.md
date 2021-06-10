@@ -1,1 +1,1 @@
-# google-homepage
+This project is to recreate the Google homepage as I follow The Odin Project assignments. 
